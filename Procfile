@@ -1,1 +1,1 @@
-web: node . --server --self --prefix /
+web: node . --server --prefix /
