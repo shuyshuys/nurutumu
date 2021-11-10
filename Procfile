@@ -1,1 +1,1 @@
-web: node . shuy --server --self --gonly --prefix /
+web: node . shuy --server --prefix /
